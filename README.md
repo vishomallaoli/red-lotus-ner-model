@@ -39,7 +39,7 @@ The challenge focuses on **Named Entity Recognition (NER)** for **German e-comme
 ├── results/             # Model checkpoints, logs, and evaluation results
 └── README.md            # Project documentation
 
-````
+```
 
 ---
 
@@ -48,7 +48,7 @@ The challenge focuses on **Named Entity Recognition (NER)** for **German e-comme
    ```bash
    git clone https://github.com/vishomallaoli/red-lotus-ner-model.git
    cd red-lotus-ner-model
-````
+   ```
 
 2. Create a virtual environment and install dependencies:
 
